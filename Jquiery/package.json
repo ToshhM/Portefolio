@@ -31,7 +31,7 @@
     "grunt-contrib-watch": "^1.0.0",
     "grunt-karma": "^0.12.2",
     "grunt-unified-manifest": "git://github.com/jwarby/grunt-unified-manifest.git",
-    "jquery": "^2.2.3",
+    "jquery": "^3.4.1",
     "jshint-stylish": "^2.1.0",
     "karma": "^0.13.22",
     "karma-chrome-launcher": "^0.2.3",
