@@ -1,0 +1,187 @@
+header
+{
+
+background-image: url(Landscape.jpg);
+background-position: 100% 100%;
+background-size: cover;
+height: 100vh;
+}
+header h1{
+    padding-top:100px;
+    text-align: center;
+    color: white;
+    font-family: Montserrat;
+    font-size: 95px;
+    letter-spacing: 2px;
+    line-height: 95px;
+}
+
+
+body{
+
+     background: #141E30;
+     background: -webkit-linear-gradient(-45deg, #35577D, #141E30);
+     background: linear-gradient(-45deg, #35577D, #141E30);
+
+
+}
+.big-title{
+    color: white;
+    font-family: Helvetica;
+    font-size:50px;
+}
+.title-me{
+    height: 170px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 200px;
+}
+
+.text-me{
+    height: 20px
+}
+.logo-me{
+    height:128px;
+    width: 128px;
+    background-image: url(id-card.png);
+    /*background-repeat: no-repeat;*/
+    margin-left: 700px;
+    
+}
+
+.title-me2{
+    height: 170px;
+    text-align: center;
+}
+
+.text-me2{
+    height: 20px
+    
+}
+.logo-me2{
+    height:128px;
+    width: 128px;
+    background-image: url(resume.png);
+    /*background-repeat: no-repeat;*/
+    margin-left: 710px;
+    
+}
+.title-me3{
+    height: 170px;
+    text-align: center;
+    background-color:black;
+}
+
+.text-me3{
+    height: 20px;
+    color: white;
+}
+.logo-me3{
+    height:128px;
+    width: 128px;
+    background-image: url(project1.png);
+    /*background-repeat: no-repeat;*/
+    margin-left: 700px;
+    
+    
+}
+.Ban1{
+    width: 1500px;
+    align-content: center;
+    padding-left: 500 px;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    }
+.LogoP
+{   
+    text-align:;
+    height: 64px;
+    width: 64px;
+    background-image: url(adobe.png);
+    margin-left:25px;
+}
+.Avion
+{   
+    text-align:;
+    height: 64px;
+    width: 64px;
+    background-image: url(airplane.png);
+    margin-right: 10px;
+}
+.Game
+{   
+    text-align:;
+    height: 64px;
+    width: 64px;
+    background-image: url(gamepad.png);
+    margin-left: -5px;
+}
+.Video
+{   
+    text-align:;
+    height: 64px;
+    width: 64px;
+    background-image: url(video.png);
+    margin-left: 15px;
+}
+
+.Manga
+{   
+    text-align:;
+    height: 64px;
+    width: 64px;
+    background-image: url(manga.png);
+    margin-left: 15px;
+}
+ .LogoP > p {
+    font-size: 50px;
+}
+.col-md-2{
+    align-content: center;
+}
+#Experience{
+    background-color: grey;
+}
+.text{
+    text-align: center;
+}
+h1,h2,h4,h5{
+    font-family: Montserrat;
+    text-align: center;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Portefolio{
+    background-color:black;
+    
+}
+#Portefolio, h2{
+    color: white;
+}
+#paper{
+    position: absolute;
+    width:  100%;
+    height: 100%;
+    cursor: url('/IMAGE/paper-plane.png'), pointer;
+}
+
+ #Moi > p {
+     font-family: Montserrat;
+    font-size: 35px;
+    color: white;
+}
+
+.linkedin{
+    text-align: center;
+    height: 300px;
+align-content: center;
+}
+.link{
+    height: 128px;
+    background-image: url(/IMAGE/linkedin.png);
+}
+.instagram{
+    height: 128px;
+    background-image: url(/IMAGE/instagram.png);
+}
