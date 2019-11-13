@@ -43,8 +43,6 @@ body{
 .logo-me{
     height:128px;
     width: 128px;
-
-    
 }
 
 .title-me2{
@@ -73,10 +71,7 @@ body{
     color: white;
 }
 .logo-me3{
-    height: auto;
-    display: block;
-    margin: 0 auto;
-    margin-left:25px;
+    text-align: center;
 }
 .Ban1{
     width: 1500px;
@@ -87,15 +82,14 @@ body{
     }
 .LogoP
 {   
-    text-align:center;
-    height: 64px;
-    width: 64px;
-    background-image: url(adobe.png);
+    height: auto;
+    display: block;
+    margin: 0 auto;
     margin-left:25px;
 }
 .Avion
 {   
-    text-align:;
+    
     height: 64px;
     width: 64px;
     background-image: url(airplane.png);
