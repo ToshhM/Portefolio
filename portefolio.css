@@ -31,6 +31,7 @@ body{
     font-size:50px;
 }
 .title-me{
+    text-align: center;
     height: 170px;
     padding-top: 50px;
     padding-bottom: 200px;
@@ -38,7 +39,7 @@ body{
 
 .text-me{
     height: 20px;
-    text-align:center;
+    
 }
 .logo-me{
     height:128px;
